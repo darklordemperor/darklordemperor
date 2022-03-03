@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning about web developing and web designing.I plan to be full-stack developer in Future.
+- My skills
+- PHP,MYSQL,JAVA,HTML,CSS,Python,Javascript.
 <!--
 **darklordemperor/darklordemperor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
