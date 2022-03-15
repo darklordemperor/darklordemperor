@@ -2,7 +2,8 @@
 - 🌱 I’m currently learning about web developing and web designing.I plan to be full-stack developer in Future.
 - My skills
 - PHP,MYSQL,JAVA,HTML,CSS,Python,Javascript.
-- ![275334988_485766706340190_7353538229855613708_n](https://user-images.githubusercontent.com/94989915/158325161-088babfc-0f82-4360-bc06-b65fca98dee8.jpg)
+-![Untitled-1](https://user-images.githubusercontent.com/94989915/158326059-0b2c19e0-2b76-4e07-a9ab-c09e733e9ab3.jpg)
+
 <!--
 **darklordemperor/darklordemperor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
