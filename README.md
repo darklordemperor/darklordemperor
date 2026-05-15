@@ -45,8 +45,8 @@
 | Project | Tech | Description |
 |---------|------|-------------|
 | ⚡ EV Charging App | React Native + GCP + Maps | Find & book EV charging stations |
-| 🔮 Astrology App | Flutter + Video Call | Live tarot reading with animation |
-| 🤖 AI Chat App | Flutter + ChatGPT API | Conversational AI assistant |
+| 🔮 Astrology App | React native + Video Call | Live tarot reading with animation |
+| 🤖 AI Chat App | React Native + ChatGPT API | Conversational AI assistant |
 | 🛒 E-Commerce App | Flutter + Firebase | Full shopping experience (Final Year Project) |
 
 <br/>
@@ -54,11 +54,11 @@
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apirat55555@gmail.com)
-[![JobsDB](https://img.shields.io/badge/JobsDB-0A66C2?style=for-the-badge&logo=briefcase&logoColor=white)](https://th.jobsdb.com/profiles/อภิรัตน์-เมธาเสถียร)
-
+[![JobsDB](https://img.shields.io/badge/JobsDB-0A66C2?style=for-the-badge&logo=briefcase&logoColor=white)](https://th.jobsdb.com/th/profiles/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%A3-rkWkkyQffC)
 <br/>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darklordemperor&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darklordemperor&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=darklordemperor&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darklordemperor&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&langs_count=6" height="150"/>
 </p>
