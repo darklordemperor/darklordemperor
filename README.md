@@ -1,21 +1,64 @@
-### Hi there 👋
-- 🌱 I’m currently learning about web developing and web designing.I plan to be full-stack developer in Future.
-- My skills
-- PHP,MYSQL,JAVA,HTML,CSS,Python,Javascript.
--![Untitled-1](https://user-images.githubusercontent.com/94989915/158326059-0b2c19e0-2b76-4e07-a9ab-c09e733e9ab3.jpg)
+<h1 align="center">Hi there, I'm Apirat 👋</h1>
+<h3 align="center">Mobile Developer · React Native · Flutter · Bangkok, Thailand 🇹🇭</h3>
 
-<!--
-**darklordemperor/darklordemperor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
+- 💼 Mobile Developer at **East Innovation** — 3+ years of experience
+- 📱 Building cross-platform apps with **React Native** & **Flutter**
+- 🤖 Working on **AI Chat**, **EV Charging**, and **Astrology** apps
+- ☁️ Deploying on **Google Cloud Platform** & **Google Play Store**
+- 🍎 macOS dev environment ready for **iOS** development
+- 🎯 Goal: Grow into a **Senior Mobile Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## 🛠️ Tech Stack
+
+#### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+#### Cloud & Backend
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+
+#### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+<br/>
+
+## 📦 Featured Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| ⚡ EV Charging App | React Native + GCP + Maps | Find & book EV charging stations |
+| 🔮 Astrology App | Flutter + Video Call | Live tarot reading with animation |
+| 🤖 AI Chat App | Flutter + ChatGPT API | Conversational AI assistant |
+| 🛒 E-Commerce App | Flutter + Firebase | Full shopping experience (Final Year Project) |
+
+<br/>
+
+## 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apirat55555@gmail.com)
+[![JobsDB](https://img.shields.io/badge/JobsDB-0A66C2?style=for-the-badge&logo=briefcase&logoColor=white)](https://th.jobsdb.com/profiles/อภิรัตน์-เมธาเสถียร)
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darklordemperor&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darklordemperor&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
